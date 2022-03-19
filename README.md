@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @turnaround7
 - 👀 I’m interested in learning 
-- 🌱 I’m currently learning Bit Manipulation and web development 
+- 🌱 I’m currently on a break.
 - 💞️ I’m looking to collaborate on React js , DSA
 
 <!---
